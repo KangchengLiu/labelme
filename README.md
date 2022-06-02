@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Image Polygonal Annotation with Python
+  Image Polygonal Annotation with Python for segmentation
 </h4>
 
 <div align="center">
